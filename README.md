@@ -11,7 +11,8 @@ This project implements an **end-to-end machine learning system** designed to he
 ---
 
 ## 📌 Project Overview
-
+![Dashboard](assets/dash2.png)
+![Dashboard](assets/dash1.png)
 This system solves two key business problems:
 
 1. **Freight Cost Prediction (Regression)**
